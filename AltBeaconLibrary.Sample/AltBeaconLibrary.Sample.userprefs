@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{AE041D34-1110-4C58-8ED9-F8FB1B9E5268}|Default" GitUserInfo="UsingGIT">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Android/BeaconSimulator.cs">
+    <Files>
+      <File FileName="AltBeaconLibrary.Sample/SharedBeacon.cs" Line="9" Column="2" />
+      <File FileName="Android/Services/AltBeaconService.cs" Line="62" Column="14" />
+      <File FileName="AltBeaconLibrary.Sample/BeaconViewModel.cs" Line="33" Column="28" />
+      <File FileName="AltBeaconLibrary.Sample/IAltBeaconService.cs" Line="7" Column="8" />
+      <File FileName="Android/BeaconSimulator.cs" Line="41" Column="21" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AltBeaconLibrary.Sample" expanded="True">
+            <Node name="AltBeaconLibrary.Sample" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.AltBeaconLibrary.Sample.Droid PreferredExecutionTarget="Android.WUJ01JWEBF" />
+  <DisabledProjects>
+    <String>iOS/AltBeaconLibrary.Sample.iOS.csproj</String>
+  </DisabledProjects>
+</Properties>

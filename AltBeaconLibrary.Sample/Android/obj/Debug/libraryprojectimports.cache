@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Paths>
+  <Jars></Jars>
+  <ResolvedResourceDirectories>
+    <ResolvedResourceDirectory>/Users/uknektdev/Downloads/Android-AltBeacon-Library-master/Samples/Forms/AltBeaconLibrary.Sample/Android/obj/Debug/__library_projects__/Xamarin.Forms.Platform.Android/library_project_imports/res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>/Users/uknektdev/Downloads/Android-AltBeacon-Library-master/Samples/Forms/AltBeaconLibrary.Sample/Android/obj/Debug/__library_projects__/AndroidAltBeaconLibrary/library_project_imports/res</ResolvedResourceDirectory>
+  </ResolvedResourceDirectories>
+  <ResolvedAssetDirectories>
+    <ResolvedAssetDirectory>obj/Debug/__library_projects__/Xamarin.Forms.Platform.Android/library_project_imports/assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj/Debug/__library_projects__/AndroidAltBeaconLibrary/library_project_imports/assets</ResolvedAssetDirectory>
+  </ResolvedAssetDirectories>
+  <ResolvedEnvironmentFiles />
+  <ResolvedResourceDirectoryStamps>
+    <ResolvedResourceDirectoryStamp>/Users/uknektdev/Downloads/Android-AltBeacon-Library-master/Samples/Forms/AltBeaconLibrary.Sample/Android/obj/Debug/__library_projects__/Xamarin.Forms.Platform.Android.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>/Users/uknektdev/Downloads/Android-AltBeacon-Library-master/Samples/Forms/AltBeaconLibrary.Sample/Android/obj/Debug/__library_projects__/AndroidAltBeaconLibrary.stamp</ResolvedResourceDirectoryStamp>
+  </ResolvedResourceDirectoryStamps>
+</Paths>

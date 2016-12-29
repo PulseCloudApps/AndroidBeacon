@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
+    <HasSharedItems>true</HasSharedItems>
+    <SharedGUID>{5D583357-8EFD-4130-83CF-E1E3AC854526}</SharedGUID>
+  </PropertyGroup>
+  <PropertyGroup Label="Configuration">
+    <Import_RootNamespace>AltBeaconLibrary.Sample</Import_RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="$(MSBuildThisFileDirectory)App.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)IAltBeaconService.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)MainPage.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)ListItemView.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)ListChangedEventArgs.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)SharedBeacon.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)BeaconViewModel.cs" />
+  </ItemGroup>
+</Project>
